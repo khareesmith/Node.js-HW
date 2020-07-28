@@ -1,9 +1,9 @@
-import fs from 'fs';
-import inquirer from 'inquirer';
+const fs = require('fs');
+const inquirer = require('inquirer');
 
-// import greeting from './greeting';
+const greeting = require("./greeting");
 
-//console.log(greeting);
+console.log(greeting.greeting);
 
 const userQuestions = () => {
 inquirer.prompt([

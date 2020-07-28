@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Validate user password is saved to text file ---",
   "main": "greeting.js",
-  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
