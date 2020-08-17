@@ -21,3 +21,5 @@ Validate user password is saved to text file ---
 * Create a `GitHub` repo for your server
 * Commit to `GitHub` at least five times
 * Submit `.js` file and `Github` link to Google classroom
+
+![Node Homework Gif](img/Node.gif)
